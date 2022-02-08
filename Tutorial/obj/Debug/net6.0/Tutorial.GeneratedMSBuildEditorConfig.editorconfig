@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Tutorial
 build_property.RootNamespace = Tutorial
-build_property.ProjectDir = D:\study\Tutorial\Tutorial\
+build_property.ProjectDir = D:\GitValeriy\Tutorial\Tutorial\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\study\Tutorial\Tutorial
+build_property.MSBuildProjectDirectory = D:\GitValeriy\Tutorial\Tutorial
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/study/Tutorial/Tutorial/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/GitValeriy/Tutorial/Tutorial/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/Tutorial/Tutorial/Views/Home/Index.cshtml]
+[D:/GitValeriy/Tutorial/Tutorial/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/Tutorial/Tutorial/Views/Home/Privacy.cshtml]
+[D:/GitValeriy/Tutorial/Tutorial/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/Tutorial/Tutorial/Views/Shared/Error.cshtml]
+[D:/GitValeriy/Tutorial/Tutorial/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/Tutorial/Tutorial/Views/Shared/_LoginPartial.cshtml]
+[D:/GitValeriy/Tutorial/Tutorial/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/Tutorial/Tutorial/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/GitValeriy/Tutorial/Tutorial/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/Tutorial/Tutorial/Views/Test/Index.cshtml]
+[D:/GitValeriy/Tutorial/Tutorial/Views/Test/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/Tutorial/Tutorial/Views/_ViewImports.cshtml]
+[D:/GitValeriy/Tutorial/Tutorial/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/Tutorial/Tutorial/Views/_ViewStart.cshtml]
+[D:/GitValeriy/Tutorial/Tutorial/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/study/Tutorial/Tutorial/Views/Shared/_Layout.cshtml]
+[D:/GitValeriy/Tutorial/Tutorial/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2ib1pt0iuw
