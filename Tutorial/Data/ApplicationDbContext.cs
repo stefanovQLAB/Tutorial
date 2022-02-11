@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Domain;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Tutorial.Data
@@ -9,5 +10,8 @@ namespace Tutorial.Data
             : base(options)
         {
         }
+
+        public DbSet<Error> Errors { get; set; }
+        public DbSet<Developer> Developers { get; set; }
     }
 }

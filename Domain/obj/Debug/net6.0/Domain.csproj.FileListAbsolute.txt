@@ -10,3 +10,15 @@ D:\study\Tutorial\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
 D:\study\Tutorial\Domain\obj\Debug\net6.0\Domain.dll
 D:\study\Tutorial\Domain\obj\Debug\net6.0\ref\Domain.dll
 D:\study\Tutorial\Domain\obj\Debug\net6.0\Domain.pdb
+D:\GitValeriy\Tutorial\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\GitValeriy\Tutorial\Domain\bin\Debug\net6.0\Domain.dll
+D:\GitValeriy\Tutorial\Domain\bin\Debug\net6.0\ref\Domain.dll
+D:\GitValeriy\Tutorial\Domain\bin\Debug\net6.0\Domain.pdb
+D:\GitValeriy\Tutorial\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\GitValeriy\Tutorial\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitValeriy\Tutorial\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\GitValeriy\Tutorial\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\GitValeriy\Tutorial\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\GitValeriy\Tutorial\Domain\obj\Debug\net6.0\Domain.dll
+D:\GitValeriy\Tutorial\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\GitValeriy\Tutorial\Domain\obj\Debug\net6.0\Domain.pdb

@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Tutorial.Data;
 
@@ -11,9 +12,10 @@ using Tutorial.Data;
 namespace Tutorial.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20220211140523_Developers")]
+    partial class Developers
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -46,18 +48,10 @@ namespace Tutorial.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
-                    b.Property<DateTime?>("DateOfError")
-                        .HasColumnType("datetime2");
-
-                    b.Property<int?>("DeveloperId")
-                        .HasColumnType("int");
-
                     b.Property<string>("Message")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("DeveloperId");
 
                     b.ToTable("Errors");
                 });
@@ -264,13 +258,6 @@ namespace Tutorial.Data.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
-            modelBuilder.Entity("Domain.Error", b =>
-                {
-                    b.HasOne("Domain.Developer", null)
-                        .WithMany("Errors")
-                        .HasForeignKey("DeveloperId");
-                });
-
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
@@ -320,11 +307,6 @@ namespace Tutorial.Data.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-                });
-
-            modelBuilder.Entity("Domain.Developer", b =>
-                {
-                    b.Navigation("Errors");
                 });
 #pragma warning restore 612, 618
         }

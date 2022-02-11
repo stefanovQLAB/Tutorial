@@ -2374,11 +2374,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\study\\Tutorial\\Tutorial\\Tutorial.csproj",
+      "projectUniqueName": "D:\\GitValeriy\\Tutorial\\Tutorial\\Tutorial.csproj",
       "projectName": "Tutorial",
-      "projectPath": "D:\\study\\Tutorial\\Tutorial\\Tutorial.csproj",
+      "projectPath": "D:\\GitValeriy\\Tutorial\\Tutorial\\Tutorial.csproj",
       "packagesPath": "C:\\Users\\stefanov\\.nuget\\packages\\",
-      "outputPath": "D:\\study\\Tutorial\\Tutorial\\obj\\",
+      "outputPath": "D:\\GitValeriy\\Tutorial\\Tutorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2399,8 +2399,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\study\\Tutorial\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\study\\Tutorial\\Domain\\Domain.csproj"
+            "D:\\GitValeriy\\Tutorial\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\GitValeriy\\Tutorial\\Domain\\Domain.csproj"
             }
           }
         }
